@@ -8,6 +8,24 @@
 >
 > 本项目需均在具有相应大模型 API 的情况下使用。
 
+项目结构如下：
+
+```
+ai-quickstart
+├── .env
+├── .gitignore
+├── LICENSE
+├── README.md
+├── assets
+│   └── image-20260212161901601.png
+├── deepseek
+│   └── api
+│       ├── deepseek_api.py
+│       └── game.html
+├── environment.yml
+└── requirements.txt
+```
+
 ## 安装依赖
 
 ### pip 安装
