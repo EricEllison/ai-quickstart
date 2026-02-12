@@ -2,4 +2,7 @@
 .idea/
 
 # Visual Studio Code
- .vscode/
+.vscode/
+
+# Environment variables
+.env
